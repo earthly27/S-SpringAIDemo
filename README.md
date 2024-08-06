@@ -7,6 +7,9 @@
 - ollama.base-url= http://localhost:11434
 - ollama mistral start command bash :  ollama run mistral
 
+  ![image](https://github.com/user-attachments/assets/f3de59e3-e900-4cd7-af92-acfa1a453999)
+
+
 <h3>Documents</h3>
 
 - Spring AI doc Link : https://spring.io/projects/spring-ai
